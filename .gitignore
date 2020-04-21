@@ -1,2 +1,8 @@
 check_fips/_build/
 check_fips/rebar.lock
+
+# Ignore IDEA files
+.idea
+
+# Ignore Mac cruft
+**/.DS_Store
